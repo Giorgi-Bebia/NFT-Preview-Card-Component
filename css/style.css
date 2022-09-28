@@ -27,6 +27,7 @@ body {
     display: block;
     width: 302px;
     height: 302px;
+    border-radius: 8px;
 }
 
 .hover {
